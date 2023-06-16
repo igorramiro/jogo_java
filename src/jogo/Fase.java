@@ -39,7 +39,7 @@ public class Fase extends JPanel implements ActionListener {
 	private int nivel_dificuldade;
 	private int partida=1;
 	private int dificuldade[][]={//(numero de inimigo, espaçamento entre um lixo e outro)
-		{1,300},//facil
+		{10,300},//facil
 		{20,200},//normal
 		{40,100}//dificil
 	};
