@@ -5,7 +5,7 @@ import javax.swing.JFrame;
  * colocar as açoes no Estilo tambem
  */
 public class Main extends JFrame {
-	private TelaInicio painel=new TelaInicio(this);//por algum motivo se comentar não funciona, vai entender
+	private TelaInicio painel=new TelaInicio(this);
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		new Main(0);
